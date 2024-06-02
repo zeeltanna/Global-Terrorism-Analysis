@@ -39,10 +39,10 @@ The dataset used in the analysis is called Global Terrorism Dataset and it conta
 ### **Results**
 As a result of analysis the we can be come to the following 7 conclusions:
 
-    1. Country with Highest Number of Attacks : ***Iraq***
-    2. Region with Highest Number of Terrorist Attacks : ***Middle East and North Africa***
-    3. Maximum Number of People Killed : ***1570 (In Iraq)***
-    4. Year with Most Attacks : ***2014***
-    5. Month with Mose Attacks : ***May***
-    6. Group that carried out most attacks : ***Taliban***
-    7. Type of Attack most carried out : ***Bombing / Explosion***
+    1. Country with Highest Number of Attacks : Iraq
+    2. Region with Highest Number of Terrorist Attacks : Middle East and North Africa
+    3. Maximum Number of People Killed : 1570 (In Iraq)
+    4. Year with Most Attacks : 2014
+    5. Month with Mose Attacks : May
+    6. Group that carried out most attacks : Taliban
+    7. Type of Attack most carried out : Bombing / Explosion
